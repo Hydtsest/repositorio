@@ -2,5 +2,20 @@ body
 {
     text-align: center;
     font-family: "arial";
-    color: blue;
+    color: #345455;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 20%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #765425;
+    margin: 0 auto;
+}
+
+#container
+{
+    font-size: 20px;
 }
