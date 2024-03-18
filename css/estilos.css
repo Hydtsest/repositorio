@@ -1,7 +1,7 @@
 body
 {
     text-align: center;
-    font-family: "courier";
+    font-family: "arial";
     color: #345455;
     margin: 0;
     padding: 0;
@@ -17,5 +17,19 @@ body
 
 #container
 {
-    font-size: 20px;
+    width:70%;
+    padding:0;
+    text-align:left;
+    border:1px solid #ddd;
+    margin:0 auto
+}
+
+#container h1
+{
+    font-size:20px
+}
+
+#post
+{
+    padding:1em
 }
