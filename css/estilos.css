@@ -1,5 +1,5 @@
 body
-{   color:#333;
+{   color:#f10000;
     text-align:center;
     font-family:'arial';
     font: 20px;
@@ -9,7 +9,7 @@ body
 
 #cabecera
 {
-    background:rgb(9, 77, 35);
+    background:rgb(9, 25, 77);
     box-shadow:0 2px 20px 0 rgba(0, 0, 0, 0.774);
     color:#fff;
     font-weight:700;
