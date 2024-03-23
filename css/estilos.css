@@ -1,6 +1,6 @@
 body
 {   
-    color:#f10000;
+    color:#333;
     text-align:center;
     font-family:'arial';
     font: 20px;
@@ -10,9 +10,9 @@ body
 
 #cabecera
 {
-    background:rgb(9, 25, 77);
-    box-shadow:0 2px 20px 0 rgba(0, 0, 0, 0.774);
-    color:#fff;
+    background:rgb(33, 102, 102);
+    box-shadow:0 2px 20px 0 rgba(4, 93, 56, 0.851);
+    color:#ffffff;
     font-weight:700;
     margin:0;
     padding:.5em
@@ -22,15 +22,16 @@ body
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 12;
 }
 
 #container
 {
-    width:70%;
+    width:50%;
     padding:0;
     text-align:left;
-    border:1px solid #ddd;
+    border:1px solid rgb(33, 102, 102);
+    box-shadow:0 2px 20px 0 rgba(4, 93, 56, 0.851);
     margin:0 auto
 }
 
